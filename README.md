@@ -1,4 +1,4 @@
-# Lemonade API
+# Lemon API
 
 Api for [Lemonade Stand](https://www.github.com/voscarmv/lemonade_stand)
 
